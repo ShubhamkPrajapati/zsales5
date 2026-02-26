@@ -7,7 +7,7 @@
     "applicationVersion": {
       "version": "0.0.1"
     },
-    "title": "Sales App",
+    "title": "Sales Applications",
     "description": "{{appDescription}}",
     "resources": "resources.json",
     "sourceTemplate": {
